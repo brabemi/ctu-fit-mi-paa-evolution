@@ -91,3 +91,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# data
+inst
+inst-exp
+sol
+sol-exp
